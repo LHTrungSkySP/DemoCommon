@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LHT.Shared
 {
-    public class Class2
+    public class Class3
     {
     }
 }

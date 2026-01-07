@@ -1,0 +1,3 @@
+[submodule "LHT.Shared"]
+	path = LHT.Shared
+	url = https://github.com/candymansolonely/LHT.Shared.git
